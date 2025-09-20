@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231071332960",
+    "project_id": "hashplusapp-dfbcb",
+    "storage_bucket": "hashplusapp-dfbcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231071332960:android:f87a40d17e8a3adc2fa105",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PfuW1W9XavLGPeKvNGCoFHpnC-u8eFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
