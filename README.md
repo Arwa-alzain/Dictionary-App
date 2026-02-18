@@ -36,7 +36,7 @@ The application focuses on clean UI design, smooth performance, and efficient AP
 - **Dart**
 - **REST API Integration**
 - **HTTP / Dio (for API calls)**
-- **State Management (e.g., Cubit / BLoC if used)**
+- **State Management (e.g., Cubit)**
 
 ---
 
@@ -45,7 +45,6 @@ The application focuses on clean UI design, smooth performance, and efficient AP
 The app connects to an online dictionary API to:
 
 - Fetch word meanings
-- Retrieve phonetics (if supported)
 - Display example sentences
 - Handle errors for invalid or unavailable words
 
